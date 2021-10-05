@@ -447,8 +447,6 @@ commands = {
 'P\\impliedby Q',
 'P\\implies Q',
 '\\in',
-'\\includegraphics[height=0.8em, totalheight=0.9em, width=0.9em, alt=KA '
-'logo]{https://cdn.kastatic.org/images/apple-touch-icon-57x57-precomposed.new.png}',
 '\\inf',
 '\\infin',
 '\\infty',
