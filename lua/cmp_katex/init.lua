@@ -20,6 +20,8 @@ function source:complete(params, callback)
     end
 
     callback(self.items)
+  else
+    callback()
   end
 end
 
